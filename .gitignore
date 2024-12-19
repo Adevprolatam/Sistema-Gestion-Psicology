@@ -1,0 +1,4 @@
+# MODULOS
+node_modules
+# VARIABLES DE ENTORNO
+.env
